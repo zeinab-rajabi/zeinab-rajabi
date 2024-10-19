@@ -1,16 +1,23 @@
-## Hi there 👋
+# zeinab rajabi
 
-<!--
-**zeinab-rajabi/zeinab-rajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is **bold**.
 
-Here are some ideas to get you started:
+this is *Italic*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```pyton
+a=0
+print(0)
+```
+- pyton
+- deeplearning
+  - RNN
+  - CNN
+- NLP
+
+
+  
+
+> This is Test.
+> > Tis is another
+    
+![GOLL](https://golikhanoom.ir/wp-content/uploads/2023/11/aks-gol-v-manzare-ziba-baraye-porofail-30.jpg)
