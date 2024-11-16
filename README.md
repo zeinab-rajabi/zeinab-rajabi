@@ -8,11 +8,6 @@ this is *Italic*.
 a=0
 print(0)
 ```
-- pyton
-- deeplearning
-  - RNN
-  - CNN
-- NLP
 
 
   
